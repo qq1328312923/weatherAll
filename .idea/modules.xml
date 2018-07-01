@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mas-weather-city-eureka/mas-weather-city-eureka.iml" filepath="$PROJECT_DIR$/mas-weather-city-eureka/mas-weather-city-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mas-weather-client/mas-weather-client.iml" filepath="$PROJECT_DIR$/mas-weather-client/mas-weather-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mas-weather-client-hystrix/mas-weather-client-hystrix.iml" filepath="$PROJECT_DIR$/mas-weather-client-hystrix/mas-weather-client-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mas-weather-client-zuul/mas-weather-client-zuul.iml" filepath="$PROJECT_DIR$/mas-weather-client-zuul/mas-weather-client-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mas-weather-config-client/mas-weather-config-client.iml" filepath="$PROJECT_DIR$/mas-weather-config-client/mas-weather-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mas-weather-config-server/mas-weather-config-server.iml" filepath="$PROJECT_DIR$/mas-weather-config-server/mas-weather-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mas-weather-data-feign/mas-weather-data-feign.iml" filepath="$PROJECT_DIR$/mas-weather-data-feign/mas-weather-data-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mas-weather-data-ribbon/mas-weather-data-ribbon.iml" filepath="$PROJECT_DIR$/mas-weather-data-ribbon/mas-weather-data-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mas-weather-server/mas-weather-server.iml" filepath="$PROJECT_DIR$/mas-weather-server/mas-weather-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa-weather-collection-server-feign/msa-weather-collection-server-feign.iml" filepath="$PROJECT_DIR$/msa-weather-collection-server-feign/msa-weather-collection-server-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa-weather-collection-server-ribbon/msa-weather-collection-server-ribbon.iml" filepath="$PROJECT_DIR$/msa-weather-collection-server-ribbon/msa-weather-collection-server-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa-weather-report-feign/msa-weather-report-feign.iml" filepath="$PROJECT_DIR$/msa-weather-report-feign/msa-weather-report-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa-weather-report-feign-geteway/msa-weather-report-feign-geteway.iml" filepath="$PROJECT_DIR$/msa-weather-report-feign-geteway/msa-weather-report-feign-geteway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa-weather-report-geteway-hystrix/msa-weather-report-geteway-hystrix.iml" filepath="$PROJECT_DIR$/msa-weather-report-geteway-hystrix/msa-weather-report-geteway-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa-weather-report-ribbon/msa-weather-report-ribbon.iml" filepath="$PROJECT_DIR$/msa-weather-report-ribbon/msa-weather-report-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weatherAll.iml" filepath="$PROJECT_DIR$/weatherAll.iml" />
+    </modules>
+  </component>
+</project>

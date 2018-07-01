@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mas-weather-city-eureka" />
+        <module name="mas-weather-client" />
+        <module name="mas-weather-client-hystrix" />
+        <module name="mas-weather-client-zuul" />
+        <module name="mas-weather-config-client" />
+        <module name="mas-weather-config-server" />
+        <module name="mas-weather-data-feign" />
+        <module name="mas-weather-data-ribbon" />
+        <module name="mas-weather-server" />
+        <module name="msa-weather-collection-server-feign" />
+        <module name="msa-weather-collection-server-ribbon" />
+        <module name="msa-weather-report-feign" />
+        <module name="msa-weather-report-feign-geteway" />
+        <module name="msa-weather-report-geteway-hystrix" />
+        <module name="msa-weather-report-ribbon" />
+        <module name="weatherAll" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mas-weather-city-eureka" target="1.8" />
+      <module name="mas-weather-client" target="1.8" />
+      <module name="mas-weather-client-hystrix" target="1.8" />
+      <module name="mas-weather-client-zuul" target="1.8" />
+      <module name="mas-weather-collection-server-feign" target="1.8" />
+      <module name="mas-weather-config-client" target="1.8" />
+      <module name="mas-weather-config-server" target="1.8" />
+      <module name="mas-weather-data-feign" target="1.8" />
+      <module name="mas-weather-data-ribbon" target="1.8" />
+      <module name="mas-weather-server" target="1.8" />
+      <module name="msa-weather-collection-server-feign" target="1.8" />
+      <module name="msa-weather-collection-server-ribbon" target="1.8" />
+      <module name="msa-weather-report-feign" target="1.8" />
+      <module name="msa-weather-report-feign-geteway" target="1.8" />
+      <module name="msa-weather-report-geteway-hystrix" target="1.8" />
+      <module name="msa-weather-report-ribbon" target="1.8" />
+      <module name="weatherAll" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
