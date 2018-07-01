@@ -10,12 +10,12 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloController
 {
-    @Value("${auther}")
-    private String auther;
+    @Value("${myww}")
+    private String myww;
 
     @RequestMapping("hello")
     public String hello(){
-        System.out.println(auther);
+        System.out.println(myww);
         return "hello";
     }
 }
